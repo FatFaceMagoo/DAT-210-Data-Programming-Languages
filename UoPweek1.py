@@ -1,12 +1,4 @@
-""" acctNum = int(input("Enter 9 digit account number: "))
-
-if len(acctNum) != 9:
-    print("Invalid account number")
-else:
-    print("success") """
-
-    
- #Account number   
+#Account number   
 while True:
     try:
         acctNum = int(input("Please enter a number: \n"))
